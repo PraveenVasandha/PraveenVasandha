@@ -4,7 +4,9 @@
   <br/>
   I'm Praveen M, You are Welcome!
 </h1>
-<div align="center"> <img src="https://github.com/PraveenVasandha/PraveenVasandha/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png"> </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ---
 
