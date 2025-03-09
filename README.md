@@ -69,7 +69,8 @@ After completing my degree in Civil Engineering, I transitioned into the technol
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jayaprakash-palanivel&theme=default&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=jayaprakash-palanivel&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayaprakash-palanivel&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
+### :fire: My Stats :
+![](https://github-readme-stats.vercel.app/api?username=PraveenVasandha&theme=default&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=PraveenVasandha&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenVasandha&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
+
