@@ -22,6 +22,11 @@ I am a <b>Microservice-Java Full Stack Developer</b> with experience in developi
  </p>
 ---
 
+## 🌐 Socials & Contact:
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-mv-b3a174355/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveenmv0919@gmail.com)
+
+---
 ### 💻 Technology Journey
 
 After completing my degree in Civil Engineering, I transitioned into the technology field driven by my passion for software development. I dedicated myself to learning modern frameworks and technologies such as: 
